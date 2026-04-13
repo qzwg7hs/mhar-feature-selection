@@ -72,7 +72,7 @@ Models trained on UTD-MHAD and tested on unseen datasets **without any retrainin
 |---|---|---|---|
 | [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html) | RGB, Depth, Skeleton, Inertial | 8 | 27 |
 | [CZU-MHAD](https://github.com/yujmo/CZU_MHAD) | Depth, Skeleton, Inertial | 5 | 22 |
-| [MSR-Action3D](https://sites.google.com/view/wanqingli/data-sets/msr-action3d) | Depth, Skeleton | — | 20 |
+| [MSR-Action3D](https://sites.google.com/view/wanqingli/data-sets/msr-action3d) | Depth, Skeleton | 10 | 20 |
 
 Datasets are **not included** in this repository due to size and licensing. Download them from the links above and place them in the corresponding folders before running feature extraction.
 
