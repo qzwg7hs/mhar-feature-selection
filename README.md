@@ -81,4 +81,3 @@ pip install numpy pandas scikit-learn torch matplotlib jupyter
 ```
 
 Then open the notebooks with `jupyter lab` or in VS Code.
-```
