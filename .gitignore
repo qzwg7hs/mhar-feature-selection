@@ -1,0 +1,39 @@
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Generated features / results / models (kept local only) ----
+features/
+features_*/
+results/
+results_*/
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.h5
+*.hdf5
+*.ckpt
+*.joblib
+
+# ---- Large media / model assets ----
+*.mp4
+*.avi
+*.mov
+*.task
+*.tflite
+*.onnx
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
+desktop.ini
